@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/*RESPIRA NATURALEZA - MACAW*/
+
+body{
+	font-family: Quicksand;
+	font-size: 14px;
+	color: #000000;
+}
+
+header{
+	background-color: #0A1045;
+	padding: 20px;
+}
+
+#hero-gastronomia-lago{
+	background-image: url("../img/pescado-05.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 5% 0;
+}
+
+#gastronomia-lago h1{
+	font-family: Holiday In Monday;
+    color: #0A1045;
+    font-size: 150px;
+    text-align: center;
+	margin-left: 10px;
+	padding: 5% 0;
+}
+
+#gastronomia-lago-tamales{
+	background-image: url("../img/tamales-03.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 5% 0; 
+}
+#gastronomia-lago-tamales h2{
+	font-family: Holiday In Monday;
+    color: #0A1045;
+    font-size: 150px;
+    text-align: center;
+	margin-left: 10px;
+	padding: 5% 0;
+}
+
+#gastronomia-lago-sopa{
+	background-image: url("../img/sopa-04.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 5% 0; 
+}
+
+#gastronomia-lago-sopa{
+	font-family: Holiday In Monday;
+    color: #0A1045;
+    font-size: 150px;
+    text-align: center;
+	margin-left: 10px;
+	padding: 5% 0;
+}
+
+#hero-gastronomia-lago h2{
+	font-family: Holiday In Monday;
+    color: #FFFFFF;
+    font-size: 80px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+#gastronomia-lago-sopa-info{
+    text-align: justify;
+    font-size: 18px;
+    margin: 40px 0 100px 0;
+}
+
+#gastronomia-lago-sopa-info h2{
+	font-family: Holiday In Monday;
+    color: #0A1045;
+    font-size: 80px;
+    text-align: left;
+}
+
+
+footer{
+	background-color: #0A1045;
+	color: #FFFFFF;
+	padding: 50px 10px;
+	text-align: center;
+}
+
+
+footer h3{
+	font-size: 30px;
+}
+
+footer p{
+	font-size: 16px;
+}
+
+.list-social i {
+    color: #FFFFFF;
+    width: 60px;
+    font-size: 30px;
+    margin-top: 10px;
+}
